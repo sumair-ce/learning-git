@@ -1,2 +1,5 @@
 # learning-git
-Pakistan  alnd of million opportunites
+
+Pakistan land of million opportunites
+<br>
+For you, we strive
